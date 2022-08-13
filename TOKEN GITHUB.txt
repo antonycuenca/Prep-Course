@@ -1,0 +1,6 @@
+git clone https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+
+git push https://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@github.com/antonycuenca/Curso.Prep.Henry.git
+
+
+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
